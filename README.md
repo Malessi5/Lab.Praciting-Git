@@ -1,1 +1,1 @@
-This is a repo for learning git.
+This is a repo and exercise for learning git.
